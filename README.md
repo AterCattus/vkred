@@ -15,7 +15,7 @@ my Stylish style for vk redesign
     border-radius: 10%;
 }
 #page_layout {
-    width: 1080px !important;
+    min-width: 1080px !important;
 }
 #page_body {
     min-width: 915px !important;
