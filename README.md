@@ -47,4 +47,8 @@ my Stylish style for vk redesign
 body {
     background-color: white;
 }
+#chat_onl_wrap,
+#chat_tab_wrap {
+    display: none;
+}
 ```
