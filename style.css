@@ -52,3 +52,7 @@ body {
 .im-page.im-page_classic .im-page--dialogs-footer {
     max-width: 670px;
 }
+
+.nim-peer .nim-peer--photo .im_grid>img, .nim-peer .nim-peer--photo>img {
+    border-radius: inherit;
+}
