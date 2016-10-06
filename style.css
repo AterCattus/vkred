@@ -48,3 +48,7 @@ body {
 #chat_tab_wrap {
     display: none;
 }
+.im-page.im-page_classic .im-page--header,
+.im-page.im-page_classic .im-page--dialogs-footer {
+    max-width: 670px;
+}
