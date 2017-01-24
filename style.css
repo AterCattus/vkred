@@ -68,3 +68,6 @@ body {
     width: 523px;
     max-width: 523px;
 }
+.im-page_classic .im-page--chat-header {
+    width: 670px;
+}
