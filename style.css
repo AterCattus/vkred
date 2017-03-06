@@ -71,3 +71,7 @@ body {
 .im-page_classic .im-page--chat-header {
     width: 670px;
 }
+body:after {
+    content: '' !important;
+    top: -1000px;
+}
