@@ -6,7 +6,10 @@
 .nim-peer.nim-peer_small .im_grid>img,
 .nim-dialog.nim-dialog_classic .nim-dialog--photo .nim-peer .nim-peer--photo .im_grid>img,
 .nim-dialog.nim-dialog_classic .nim-dialog--photo .nim-peer .nim-peer--photo>img,
-.im-prebody img {
+.im-prebody img,
+.top_profile_img,
+.nim-peer.nim-peer_smaller .nim-peer--photo .im_grid>img,
+.nim-peer.nim-peer_smaller .nim-peer--photo>img {
     border-radius: 10%;
 }
 #page_layout {
