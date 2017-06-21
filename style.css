@@ -78,3 +78,6 @@ body:after {
     content: '' !important;
     top: -1000px;
 }
+.audio_page_layout .has_friends_block .audio_page__rows_wrap {
+    width: 634px;
+}
