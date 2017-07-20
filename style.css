@@ -81,3 +81,6 @@ body:after {
 .audio_page_layout .has_friends_block .audio_page__rows_wrap {
     width: 634px;
 }
+.im-right-menu {
+    margin-left: 675px;
+}
