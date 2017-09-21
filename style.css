@@ -9,7 +9,9 @@
 .im-prebody img,
 .top_profile_img,
 .nim-peer.nim-peer_smaller .nim-peer--photo .im_grid>img,
-.nim-peer.nim-peer_smaller .nim-peer--photo>img {
+.nim-peer.nim-peer_smaller .nim-peer--photo>img,
+.nim-peer.nim-peer_small .nim-peer--photo .im_grid>img,
+.nim-peer.nim-peer_small .nim-peer--photo>img {
     border-radius: 10%;
 }
 #page_layout {
