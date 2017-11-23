@@ -86,3 +86,11 @@ body:after {
 .im-right-menu {
     margin-left: 675px;
 }
+
+.im-page_classic.im-page .im-mess:not(.im-mess_fwd).im-mess_unread:not(.im-mess_selected):not(.im-mess_light) {
+    max-width: 624px;
+}
+
+.im-page_classic.im-page .im-mess-stack_fwd .audio_row {
+    max-width: 485px;
+}
