@@ -94,3 +94,9 @@ body:after {
 .im-page_classic.im-page .im-mess-stack_fwd .audio_row {
     max-width: 485px;
 }
+
+.im-page_classic.im-page .im-page--header {
+    border-top: solid 15px white;
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
