@@ -1,5 +1,5 @@
 .im-mess {
-    border-bottom: 1px solid rgba(1, 1, 1, 0.08);
+    border-bottom: 1px solid rgba(1, 1, 1, 0.08) !important;
 }
 .nim-peer--photo img,
 .nim-peer .nim-peer--photo-w,
@@ -76,28 +76,27 @@ body {
 .im-page_classic .im-page--chat-header {
     width: 670px;
 }
-body:after {
+/*body:after {
     content: '' !important;
     top: -1000px;
-}
+}*/
 .audio_page_layout .has_friends_block .audio_page__rows_wrap {
     width: 634px;
 }
 .im-right-menu {
     margin-left: 675px;
 }
+
 .im-page_classic.im-page .im-mess:not(.im-mess_fwd).im-mess_unread:not(.im-mess_selected):not(.im-mess_light) {
     max-width: 624px;
 }
+
 .im-page_classic.im-page .im-mess-stack_fwd .audio_row {
     max-width: 485px;
 }
+
 .im-page_classic.im-page .im-page--header {
     border-top: solid 15px white;
     border-left: solid 1px white;
     border-right: solid 1px white;
-}
-
-.im-page_classic.im-page .im-page--history_search .im-mess--text {
-    max-width: 500px;
 }
