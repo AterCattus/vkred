@@ -100,3 +100,38 @@ body {
     border-left: solid 1px white;
     border-right: solid 1px white;
 }
+
+.emoji_tt_wrap {
+    width: 570px;
+}
+
+.emoji_list {
+    height: 700px !important;
+    width: 570px !important;
+}
+
+.emoji_sticker_item {
+    width: 128px;
+    height: 144px;
+}
+
+.emoji_sticker_image {
+    max-width: 128px;
+    max-height: 128px;
+}
+
+.emoji_tabs_wrap {
+    width: 470px;
+}
+
+.emoji_tabs_r_s {
+    margin-left: 520px;
+}
+
+.sticker_hints_tt .emoji_sticker_item {
+    height: 128px;
+}
+
+.im-chat-input .sticker_hints_tt {
+    top: -156px;
+}
