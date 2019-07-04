@@ -135,3 +135,7 @@ body {
 .im-chat-input .sticker_hints_tt {
     top: -156px;
 }
+
+.emoji_smile_cont {
+    padding: 18px 10px;
+}
