@@ -101,6 +101,11 @@ body {
     border-right: solid 1px white;
 }
 
+.im-page_classic.im-page .im-page--history_search .im-mess--text {
+    max-width: 500px;
+}
+
+/* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
 }
