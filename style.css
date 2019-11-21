@@ -192,6 +192,10 @@ textarea {
     width: 658px;
 }
 
+body {
+    font-size: 15px;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
