@@ -178,6 +178,22 @@ textarea {
     font-size: 15px;
 }
 
+#page_header {
+    font-size: 15px;
+}
+
+#top_profile_menu {
+    width: 180px;
+}
+
+.im-page .nim-conversation-search-row .nim-dialog--name {
+    font-size: 15px;
+}
+
+.im-chat-input.im-chat-input_classic .im-chat-input--textarea {
+    width: 658px;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
