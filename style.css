@@ -15,7 +15,7 @@
     border-radius: 10%;
 }
 #page_layout {
-    min-width: 1080px !important;
+    min-width: 1110px !important;
 }
 #page_body {
     min-width: 915px !important;
@@ -109,9 +109,11 @@ body {
     font-size: 15px;
 }
 
+.side_bar {
+    width: 190px;
+}
+
 #side_bar .left_label {
-    height: 28px;
-    line-height: 27px;
     font-size: 15px;
 }
 
