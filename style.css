@@ -24,28 +24,28 @@
     margin-left: 685px;
 }
 .im-page.im-page_classic {
-    width: 670px;
+    width: 770px;
 }
 .im-page.im-page_classic .im-page--header-chat {
-    width: 672px;
+    width: 772px;
 }
 .im-page.im-page_classic .im-mess-stack {
-    max-width: 670px;
+    max-width: 770px;
 }
 .im-page.im-page_classic .im-mess:not(.im-mess_fwd) {
-    max-width: 662px;
+    max-width: 762px;
 }
 .im-page.im-page_classic .im-page--header {
-    width: 670px;
+    width: 770px;
 }
 .im-page.im-page_classic .im-page--chat-input {
-    width: 670px;
+    width: 770px;
 }
 .im-chat-input.im-chat-input_classic .im-chat-input--textarea {
     width: 498px;
 }
 .im-page.im-page_classic .im-page--dialogs-footer {
-    width: 670px;
+    width: 770px;
 }
 body {
     background-color: white;
@@ -74,7 +74,7 @@ body {
     max-width: 523px;
 }
 .im-page_classic .im-page--chat-header {
-    width: 670px;
+    width: 770px;
 }
 /*body:after {
     content: '' !important;
@@ -84,7 +84,7 @@ body {
     width: 634px;
 }
 .im-right-menu {
-    margin-left: 675px;
+    margin-left: 775px;
 }
 
 .im-page_classic.im-page .im-mess:not(.im-mess_fwd).im-mess_unread:not(.im-mess_selected):not(.im-mess_light) {
@@ -103,6 +103,79 @@ body {
 
 .im-page_classic.im-page .im-page--history_search .im-mess--text {
     max-width: 500px;
+}
+
+#page_body {
+    font-size: 15px;
+}
+
+#side_bar .left_label {
+    height: 28px;
+    line-height: 27px;
+    font-size: 15px;
+}
+
+.body_im .side_bar {
+    padding-left: 110px;
+}
+
+.side_bar_inner {
+    width: 190px;
+}
+
+.im-page--chat-header {
+    font-size: 15px;
+}
+
+.im-page_classic .im-page--title {
+    font-size: 15px;
+}
+
+.nim-dialog.nim-dialog_classic .nim-dialog--name,
+.nim-dialog.nim-dialog_classic .nim-dialog--preview,
+.nim-dialog.nim-dialog_classic .nim-dialog--text-preview {
+    font-size: 15px;
+}
+
+.fakeinput,
+div[contenteditable=true],
+input.big_text,
+input.file,
+input.search,
+input.text,
+input[type=button],
+input[type=password],
+input[type=search],
+input[type=submit],
+input[type=text],
+textarea {
+    font-size: 15px;
+}
+
+.im-page.im-page_classic .im-page--header,
+.im-page.im-page_classic .im-page--dialogs-footer {
+    max-width: 770px;
+}
+
+.im-mess-stack .im-mess-stack--content .im-mess-stack--pname {
+    font-size: 15px;
+}
+
+
+.im-replied--text {
+    font-size: 15px;
+}
+
+.im-replied--author-link {
+    font-size: 15px;
+}
+
+.im-page .im-page--history-new-bar {
+    font-size: 15px;
+}
+
+.feedback_content {
+    font-size: 15px;
 }
 
 /* EMOJI + STICKERS*/
@@ -139,8 +212,4 @@ body {
 
 .im-chat-input .sticker_hints_tt {
     top: -156px;
-}
-
-.emoji_smile_cont {
-    padding: 18px 10px;
 }
