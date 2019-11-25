@@ -81,14 +81,14 @@ body {
     top: -1000px;
 }*/
 .audio_page_layout .has_friends_block .audio_page__rows_wrap {
-    width: 634px;
+    width: 734px;
 }
 .im-right-menu {
     margin-left: 775px;
 }
 
 .im-page_classic.im-page .im-mess:not(.im-mess_fwd).im-mess_unread:not(.im-mess_selected):not(.im-mess_light) {
-    max-width: 624px;
+    max-width: 724px;
 }
 
 .im-page_classic.im-page .im-mess-stack_fwd .audio_row {
