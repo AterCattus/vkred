@@ -208,6 +208,10 @@ body {
     font-size: 14px;
 }
 
+.nim-dialog .nim-dialog--name .nim-dialog--name-w {
+    max-width: 90%;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
