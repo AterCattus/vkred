@@ -20,6 +20,16 @@
 #page_body {
     min-width: 915px !important;
 }
+im-right-menu {
+    width: 300px;
+    max-width: 300px;
+}
+.im-right-menu .ui_rmenu {
+    max-width: 300px;
+}
+.im-right-menu .im-right-menu--unread .im-right-menu--text {
+    max-width: 240px;
+}
 .im-right-menu.ui_rmenu {
     margin-left: 685px;
 }
