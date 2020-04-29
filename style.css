@@ -225,6 +225,10 @@ body {
     max-width: 90%;
 }
 
+.im-right-menu--corona-bot {
+    display: none !important;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
