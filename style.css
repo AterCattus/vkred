@@ -36,6 +36,9 @@
 .im-right-menu.ui_rmenu {
     margin-left: 685px;
 }
+[dir=ltr] .im-right-menu {
+    margin-left: 775px;
+}
 .im-page.im-page_classic {
     width: 770px;
 }
