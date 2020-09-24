@@ -232,6 +232,15 @@ body {
     display: none !important;
 }
 
+.nim-peer--photo-w {
+    border-radius: 5% !important;
+}
+
+.nim-peer.nim-peer_small .nim-peer--photo > img,
+[dir] .nim-peer.nim-peer_small .nim-peer--photo .im_grid > img {
+    border-radius: 5%;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
