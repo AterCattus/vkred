@@ -245,6 +245,10 @@ body {
     border-radius: 5%;
 }
 
+.im-prebody img {
+    border-radius: 5%;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
