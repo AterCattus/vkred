@@ -241,6 +241,10 @@ body {
     border-radius: 5%;
 }
 
+.nim-dialog.nim-dialog_classic .nim-dialog--photo .nim-peer .nim-peer--photo>img, [dir] .nim-dialog.nim-dialog_classic .nim-dialog--photo .nim-peer .nim-peer--photo .im_grid>img {
+    border-radius: 5%;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
