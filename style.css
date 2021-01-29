@@ -1,3 +1,8 @@
+html body {
+    --palette-vk-font: initial !important;
+    font-family: Roboto !important;
+}
+
 .im-mess {
     border-bottom: 1px solid rgba(1, 1, 1, 0.08) !important;
 }
@@ -20,6 +25,12 @@
 #page_body {
     min-width: 915px !important;
 }
+
+.moder_blocks_info {
+    padding: 0 !important;
+    width: 915px !important;
+}
+
 .im-right-menu {
     width: 330px;
     max-width: 330px;
