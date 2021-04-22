@@ -263,6 +263,10 @@ body {
     display: none;
 }
 
+#fastchat-reforged {
+    display: none;
+}
+
 /* EMOJI + STICKERS*/
 .emoji_tt_wrap {
     width: 570px;
