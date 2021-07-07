@@ -285,6 +285,8 @@ body {
 .emoji_sticker_image {
     max-width: 128px;
     max-height: 128px;
+    width: 128px;
+    height: 128px;
 }
 
 .emoji_tabs_wrap {
